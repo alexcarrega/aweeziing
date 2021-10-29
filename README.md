@@ -152,6 +152,7 @@ Usefulness, nothing else matters.
 | lsd           | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
 | micro         | https://micro-editor.github.io                     | A modern and intuitive terminal-based text editor.                                                                             |
 | prettyping    | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read.           |
+| progress      | https://github.com/Xfennec/progress                | Coreutils Progress Viewer.                                                                                                     |
 | thefuck       | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
 | tldr          | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
 cd better
