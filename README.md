@@ -11,10 +11,10 @@ Usefulness, nothing else matters.
     - [IDE](#ide)
     - [Libs](#libs)
     - [Programming](#programming)
+  - [Mail](#mail)
+  - [OS Images](#os-images)
   - [Shell](#shell)
   - [System Tools](#system-tools)
-  - [OS Images](#os-images)
-  - [Mail](#mail)
   - [Utilities](#utilities)
 
 ## Awesome
@@ -77,10 +77,10 @@ Usefulness, nothing else matters.
 
 ### IDE
 
-| Program            | URL                                | Description                            |
-| ------------------ | ---------------------------------- | -------------------------------------- |
-| Visual Studio      | https://visualstudio.microsoft.com | Best-in-class tools for any developer. |
-| Visual Studio Code | https://code.visualstudio.com      | Code editing. Redefined.               |
+| Program            | URL                                | Platform | Description                            |
+| ------------------ | ---------------------------------- | -------- | -------------------------------------- |
+| Visual Studio      | https://visualstudio.microsoft.com | mac,win  | Best-in-class tools for any developer. |
+| Visual Studio Code | https://code.visualstudio.com      | all      | Code editing. Redefined.               |
 
 ### Libs
 
@@ -104,33 +104,14 @@ Usefulness, nothing else matters.
 | Mito     | https://docs.trymito.io/                       | python  | Spreadsheet that helps you complete your Python analyses 10x faster.                                     |
 | Nuxt.js  | https://nuxtjs.org                             | js,vue  | The Intuitive Vue Framework. An open source framework making web development simple and powerful.        |
 | Rust     | https://doc.rust-lang.org/book/title-page.html | rust    | The Rust Programming Language.                                                                           |
-## Shell
 
-| Program | URL                          | Description                                                                                            |
-| ------- | ---------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Elvish  | https://elv.sh/              | Expressive programming language and a versatile interactive shell, combined into one seamless package. |
-| fish    | https://fishshell.com        | Smart and user-friendly command line shell for Linux, macOS, and the rest of the family.               |
-| xonsh   | https://xon.sh/contents.html | Python-powered, cross-platform, Unix-gazing shell language and command prompt.                         |
+## Mail
 
-## System Tools
-
-| Program    | URL                                                | Description                                                                                                          |
-| ---------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ad         | https://github.com/tanrax/terminal-AdvancedNewFile | Add to your terminal the option to quickly create folders and files like a pro.                                      |
-| ag         | https://github.com/ggreer/the_silver_searcher      | A code searching tool similar to ack, with a focus on speed.                                                         |
-| bat        | https://github.com/sharkdp/bat                     | A cat  clone with wings.                                                                                             |
-| cod        | https://github.com/dim-an/cod                      | It detects usage of --help commands parses their output and generates auto-completions for your shell.               |
-| __how2__   | https://github.com/santinic/how2                   | StackOverflow from the terminal.                                                                                     |
-| fselect    | https://github.com/jhspetersson/fselect            | Find files with SQL-like queries.                                                                                    |
-| fzf        | https://github.com/junegunn/fzf                    | General-purpose command-line fuzzy finder.                                                                           |
-| homebrew   | https://docs.brew.sh/Homebrew-on-Linux             | Package manager.                                                                                                     |
-| htop       | https://htop.dev                                   | Cross-platform interactive process viewer.                                                                           |
-| lsd        | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                            |
-| prettyping | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read. |
-| thefuck    | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                        |
-| tldr       | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                             |
-cd better
-
+| Program       | URL                                | Platform | Description                                                                                     |
+| ------------- | ---------------------------------- | -------- | ----------------------------------------------------------------------------------------------- |
+| GMail Desktop | https://snapcraft.io/gmail-desktop | snap     | A cross-platform dedicated Gmail application.                                                   |
+| KMail         | https://apps.kde.org/kmail2        | kde      | State-of-the-art email client that integrates well with widely used email providers like GMail. |
+| Mimestream    | https://mimestream.com             | mac      | A native macOS email client for Gmail.                                                          |
 
 ## OS Images
 
@@ -144,13 +125,36 @@ cd better
 | Ubuntu       | https://ubuntu.com        | deb            | Ubuntu operating system for desktop PCs and laptops.                                                |
 | XeroLinux    | https://xldb.techxero.com | arch,pacman    | KDE only minimal Distro that's how it shall remain.                                                 |
 
-## Mail
+## Shell
 
-| Program       | URL                                | Platform | Description                                                                                     |
-| ------------- | ---------------------------------- | -------- | ----------------------------------------------------------------------------------------------- |
-| GMail Desktop | https://snapcraft.io/gmail-desktop | snap     | A cross-platform dedicated Gmail application.                                                   |
-| KMail         | https://apps.kde.org/kmail2        | kde      | State-of-the-art email client that integrates well with widely used email providers like GMail. |
-| Mimestream    | https://mimestream.com             | mac      | A native macOS email client for Gmail.                                                          |
+| Program | URL                          | Description                                                                                            |
+| ------- | ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Elvish  | https://elv.sh/              | Expressive programming language and a versatile interactive shell, combined into one seamless package. |
+| fish    | https://fishshell.com        | Smart and user-friendly command line shell for Linux, macOS, and the rest of the family.               |
+| xonsh   | https://xon.sh/contents.html | Python-powered, cross-platform, Unix-gazing shell language and command prompt.                         |
+
+## System Tools
+
+| Program       | URL                                                | Description                                                                                                                    |
+| ------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ad            | https://github.com/tanrax/terminal-AdvancedNewFile | Add to your terminal the option to quickly create folders and files like a pro.                                                |
+| ag            | https://github.com/ggreer/the_silver_searcher      | A code searching tool similar to ack, with a focus on speed.                                                                   |
+| bat           | https://github.com/sharkdp/bat                     | A cat  clone with wings.                                                                                                       |
+| __borg__      | https://github.com/ok-borg/borg                    | Search and save shell snippets without leaving your terminal.                                                                  |
+| cod           | https://github.com/dim-an/cod                      | It detects usage of --help commands parses their output and generates auto-completions for your shell.                         |
+| diff-so-fancy | https://github.com/so-fancy/diff-so-fancy          | Make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster. |
+| __enhancd__   | https://github.com/b4b4r07/enhancd                 | A next-generation cd command with an interactive filter sparkles.                                                              |
+| fselect       | https://github.com/jhspetersson/fselect            | Find files with SQL-like queries.                                                                                              |
+| fzf           | https://github.com/junegunn/fzf                    | General-purpose command-line fuzzy finder.                                                                                     |
+| homebrew      | https://docs.brew.sh/Homebrew-on-Linux             | Package manager.                                                                                                               |
+| __how2__      | https://github.com/santinic/how2                   | StackOverflow from the terminal.                                                                                               |
+| htop          | https://htop.dev                                   | Cross-platform interactive process viewer.                                                                                     |
+| lsd           | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
+| micro         | https://micro-editor.github.io                     | A modern and intuitive terminal-based text editor.                                                                             |
+| prettyping    | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read.           |
+| thefuck       | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
+| tldr          | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
+cd better
 
 ## Utilities
 
