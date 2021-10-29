@@ -4,5 +4,16 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"autoenv",
+			"cointop",
+			"fselect",
+			"prettyping",
+			"remmina",
+			"Tealdeer",
+			"thefuck",
+			"tldr"
+		]
+	}
 }
