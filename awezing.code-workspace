@@ -7,12 +7,17 @@
 	"settings": {
 		"cSpell.words": [
 			"autoenv",
+			"autopair",
 			"cointop",
+			"Coreutils",
+			"curlie",
 			"Cutefish",
 			"enhancd",
 			"freeform",
 			"fselect",
 			"howdoi",
+			"htmx",
+			"httpie",
 			"Kivy",
 			"Kubeflow",
 			"Kubeless",
@@ -26,6 +31,7 @@
 			"Tealdeer",
 			"thefuck",
 			"tldr",
+			"touchbar",
 			"whatsapp",
 			"Xero",
 			"xonsh"

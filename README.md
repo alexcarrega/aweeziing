@@ -12,10 +12,12 @@ Usefulness, nothing else matters.
     - [Libs](#libs)
     - [Programming](#programming)
   - [Mail](#mail)
+  - [Manager](#manager)
   - [OS Images](#os-images)
   - [Shell](#shell)
   - [System Tools](#system-tools)
   - [Utilities](#utilities)
+  - [Not Working](#not-working)
 
 ## Awesome
 
@@ -30,6 +32,7 @@ Usefulness, nothing else matters.
 | System Admin | https://github.com/kahun/awesome-sysadmin            | A curated list of amazingly awesome open source sysadmin resources.                                                        |
 | -            | https://github.com/n1trux/awesome-sysadmin           | -                                                                                                                          |
 | Elvish       | https://github.com/elves/awesome-elvish              | The official list of awesome unofficial Elvish modules.                                                                    |
+| Fish         | https://github.com/jorgebucaran/awsm.fish            | x                                                                                                                          |
 | LaTeX        | https://github.com/egeerardyn/awesome-LaTeX          | This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).              |
 | Open-Source  | https://awesomeopensource.com                        | Find Open Source By Searching, Browsing and Combining 555,834 Topics Across 59 Categories And 9,110,968 Projects On Github |
 | Python       | https://github.com/vinta/awesome-python              | A curated list of awesome Python frameworks, libraries, software and resources.                                            |
@@ -113,6 +116,15 @@ Usefulness, nothing else matters.
 | KMail         | https://apps.kde.org/kmail2        | kde      | State-of-the-art email client that integrates well with widely used email providers like GMail. |
 | Mimestream    | https://mimestream.com             | mac      | A native macOS email client for Gmail.                                                          |
 
+## Manager
+
+| Program    | URL                                      | Platform | Description                                     |
+| ---------- | ---------------------------------------- | -------- | ----------------------------------------------- |
+| fisher     | https://github.com/jorgebucaran/fisher   | fish     | A plugin manager for Fish.                      |
+| homebrew   | https://docs.brew.sh/Homebrew-on-Linux   | linux    | Package manager.                                |
+| nvm-fish   | https://github.com/jorgebucaran/nvm.fish | fish     | Node.js version manager lovingly made for Fish. |
+| oh-my-fish | https://github.com/oh-my-fish/oh-my-fish | fish     | First fish framework.                           |
+
 ## OS Images
 
 | Program      | URL                       | Package System | Description                                                                                         |
@@ -135,27 +147,27 @@ Usefulness, nothing else matters.
 
 ## System Tools
 
-| Program       | URL                                                | Description                                                                                                                    |
-| ------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ad            | https://github.com/tanrax/terminal-AdvancedNewFile | Add to your terminal the option to quickly create folders and files like a pro.                                                |
-| ag            | https://github.com/ggreer/the_silver_searcher      | A code searching tool similar to ack, with a focus on speed.                                                                   |
-| bat           | https://github.com/sharkdp/bat                     | A cat  clone with wings.                                                                                                       |
-| __borg__      | https://github.com/ok-borg/borg                    | Search and save shell snippets without leaving your terminal.                                                                  |
-| cod           | https://github.com/dim-an/cod                      | It detects usage of --help commands parses their output and generates auto-completions for your shell.                         |
-| diff-so-fancy | https://github.com/so-fancy/diff-so-fancy          | Make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster. |
-| __enhancd__   | https://github.com/b4b4r07/enhancd                 | A next-generation cd command with an interactive filter sparkles.                                                              |
-| fselect       | https://github.com/jhspetersson/fselect            | Find files with SQL-like queries.                                                                                              |
-| fzf           | https://github.com/junegunn/fzf                    | General-purpose command-line fuzzy finder.                                                                                     |
-| homebrew      | https://docs.brew.sh/Homebrew-on-Linux             | Package manager.                                                                                                               |
-| __how2__      | https://github.com/santinic/how2                   | StackOverflow from the terminal.                                                                                               |
-| htop          | https://htop.dev                                   | Cross-platform interactive process viewer.                                                                                     |
-| lsd           | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
-| micro         | https://micro-editor.github.io                     | A modern and intuitive terminal-based text editor.                                                                             |
-| prettyping    | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read.           |
-| progress      | https://github.com/Xfennec/progress                | Coreutils Progress Viewer.                                                                                                     |
-| thefuck       | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
-| tldr          | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
-cd better
+| Program             | URL                                                | Description                                                                                                                    |
+| ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ad                  | https://github.com/tanrax/terminal-AdvancedNewFile | Add to your terminal the option to quickly create folders and files like a pro.                                                |
+| ag                  | https://github.com/ggreer/the_silver_searcher      | A code searching tool similar to ack, with a focus on speed.                                                                   |
+| autopair.fish       | https://github.com/jorgebucaran/autopair.fish      | Auto-complete matching pairs in the Fish command line.                                                                         |
+| bat                 | https://github.com/sharkdp/bat                     | A cat clone with wings.                                                                                                        |
+| curlie              | https://curlie.io                                  | Frontend to curl that adds the ease of use of _httpie_.                                                                        |
+| diff-so-fancy       | https://github.com/so-fancy/diff-so-fancy          | Make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster. |
+| enhancd             | https://github.com/b4b4r07/enhancd                 | A next-generation cd command with an interactive filter sparkles.                                                              |
+| fd                  | https://github.com/sharkdp/fd                      | A simple, fast and user-friendly alternative to _find_.                                                                        |
+| fish-apple-touchbar | https://github.com/rodrigobdz/fish-apple-touchbar  | Supercharge your touchbar with fish.                                                                                           |
+| fselect             | https://github.com/jhspetersson/fselect            | Find files with SQL-like queries.                                                                                              |
+| fzf                 | https://github.com/junegunn/fzf                    | General-purpose command-line fuzzy finder.                                                                                     |
+| htop                | https://htop.dev                                   | Cross-platform interactive process viewer.                                                                                     |
+| httpie              | https://httpie.io                                  | API testing client that flows you.                                                                                             |
+| lsd                 | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
+| micro               | https://micro-editor.github.io                     | A modern and intuitive terminal-based text editor.                                                                             |
+| prettyping          | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read.           |
+| progress            | https://github.com/Xfennec/progress                | Coreutils Progress Viewer.                                                                                                     |
+| thefuck             | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
+| tldr                | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
 
 ## Utilities
 
@@ -163,7 +175,6 @@ cd better
 | ----------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | ASCIIFlow                     | https://asciiflow.com/#/                                                      | Infinite ASCII diagrams, save to Google Drive, resize, freeform draw               |
 |                               |                                                                               | and export straight to text/html.                                                  |
-| carbon-now-cli                | https://github.com/mixn/carbon-now-cli                                        | Beautiful images of your code — from right inside your terminal.                   |
 | cointop                       | https://github.com/cointop-sh/cointop                                         | Coin tracking for hackers.                                                         |
 | Epoch Converter               | https://www.epochconverter.com                                                | Epoch & Unix Timestamp Conversion Tools                                            |
 | FacePDFViewer                 | https://github.com/fabridigua/FacePDFViewer                                   | Online PDF viewer using Computer Vision to make the user scroll                    |
@@ -178,3 +189,16 @@ cd better
 | Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health.                    |
 | strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules                                                            |
 
+## Not Working
+
+| Program        | URL                                    | Description                                                                                            |
+| -------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| borg           | https://github.com/ok-borg/borg        | Search and save shell snippets without leaving your terminal.                                          |
+| carbon-now-cli | https://github.com/mixn/carbon-now-cli | Beautiful images of your code — from right inside your terminal.                                       |
+| cod            | https://github.com/dim-an/cod          | It detects usage of --help commands parses their output and generates auto-completions for your shell. |
+| how2           | https://github.com/santinic/how2       | StackOverflow from the terminal.                                                                       |
+
+
+basher
+noip
+firefox,edge
