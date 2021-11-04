@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"archey",
 			"autoenv",
 			"autopair",
 			"cointop",
@@ -22,11 +23,13 @@
 			"Kubeflow",
 			"Kubeless",
 			"Mimestream",
+			"neofetch",
 			"Nuxt",
 			"pacman",
 			"plumbum",
 			"prettyping",
 			"remmina",
+			"screenfetch",
 			"shellpy",
 			"Tealdeer",
 			"thefuck",

@@ -16,6 +16,10 @@ Usefulness, nothing else matters.
   - [OS Images](#os-images)
   - [Shell](#shell)
   - [System Tools](#system-tools)
+    - [Editor](#editor)
+    - [Monitoring](#monitoring)
+- [Network](#network)
+    - [Search](#search)
   - [Utilities](#utilities)
   - [Not Working](#not-working)
 
@@ -150,24 +154,47 @@ Usefulness, nothing else matters.
 | Program             | URL                                                | Description                                                                                                                    |
 | ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ad                  | https://github.com/tanrax/terminal-AdvancedNewFile | Add to your terminal the option to quickly create folders and files like a pro.                                                |
-| ag                  | https://github.com/ggreer/the_silver_searcher      | A code searching tool similar to ack, with a focus on speed.                                                                   |
 | autopair.fish       | https://github.com/jorgebucaran/autopair.fish      | Auto-complete matching pairs in the Fish command line.                                                                         |
-| bat                 | https://github.com/sharkdp/bat                     | A cat clone with wings.                                                                                                        |
-| curlie              | https://curlie.io                                  | Frontend to curl that adds the ease of use of _httpie_.                                                                        |
 | diff-so-fancy       | https://github.com/so-fancy/diff-so-fancy          | Make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster. |
 | enhancd             | https://github.com/b4b4r07/enhancd                 | A next-generation cd command with an interactive filter sparkles.                                                              |
-| fd                  | https://github.com/sharkdp/fd                      | A simple, fast and user-friendly alternative to _find_.                                                                        |
 | fish-apple-touchbar | https://github.com/rodrigobdz/fish-apple-touchbar  | Supercharge your touchbar with fish.                                                                                           |
-| fselect             | https://github.com/jhspetersson/fselect            | Find files with SQL-like queries.                                                                                              |
-| fzf                 | https://github.com/junegunn/fzf                    | General-purpose command-line fuzzy finder.                                                                                     |
-| htop                | https://htop.dev                                   | Cross-platform interactive process viewer.                                                                                     |
-| httpie              | https://httpie.io                                  | API testing client that flows you.                                                                                             |
 | lsd                 | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
-| micro               | https://micro-editor.github.io                     | A modern and intuitive terminal-based text editor.                                                                             |
-| prettyping          | https://denilson.sa.nom.br/prettyping              | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read.           |
 | progress            | https://github.com/Xfennec/progress                | Coreutils Progress Viewer.                                                                                                     |
 | thefuck             | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
 | tldr                | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
+
+### Editor
+
+| Program | URL                            | Description                                        |
+| ------- | ------------------------------ | -------------------------------------------------- |
+| bat     | https://github.com/sharkdp/bat | A cat clone with wings.                            |
+| micro   | https://micro-editor.github.io | A modern and intuitive terminal-based text editor. |
+
+### Monitoring
+
+| Program     | URL                                      | Description                                                  |
+| ----------- | ---------------------------------------- | ------------------------------------------------------------ |
+| archey4     | https://github.com/HorlogeSkynet/archey4 | Simple system information tool written in Python.            |
+| htop        | https://htop.dev                         | Cross-platform interactive process viewer.                   |
+| neofetch    | https://github.com/dylanaraps/neofetch   | A command-line system information tool written in bash 3.2+. |
+| screenFetch | https://github.com/KittyKatt/screenFetch | The Bash Screenshot Information Tool.                        |
+
+# Network
+
+| Program    | URL                                   | Description                                                                                                          |
+| ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| curlie     | https://curlie.io                     | Frontend to curl that adds the ease of use of _httpie_.                                                              |
+| HTTPie     | https://httpie.io                     | API testing client that flows you.                                                                                   |
+| prettyping | https://denilson.sa.nom.br/prettyping | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read. |
+
+### Search
+
+| Program             | URL                                           | Description                                                  |
+| ------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+| fd                  | https://github.com/sharkdp/fd                 | A simple, fast and user-friendly alternative to _find_.      |
+| fselect             | https://github.com/jhspetersson/fselect       | Find files with SQL-like queries.                            |
+| fzf                 | https://github.com/junegunn/fzf               | General-purpose command-line fuzzy finder.                   |
+| The Silver Searcher | https://github.com/ggreer/the_silver_searcher | A code searching tool similar to ack, with a focus on speed. |
 
 ## Utilities
 
