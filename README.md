@@ -25,31 +25,32 @@ Usefulness, nothing else matters.
 
 ## Awesome
 
-| Topic        | URL                                                  | Description                                                                                                                |
-| ------------ | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| General      | https://github.com/emijrp/awesome-awesome            | A curated list of awesome curated lists of many topics.                                                                    |
-| -            | https://github.com/bayandin/awesome-awesomeness      | A curated list of amazingly awesome awesomeness.                                                                           |
-| Self Hosted  | https://github.com/juandecarrion/awesome-self-hosted | A curated list of awesome self hosted alternatives to cloud services.                                                      |
-|              |                                                      | Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).                                        |
-| -            | https://github.com/Kickball/awesome-selfhosted       | Self-hosting is the practice of locally hosting and managing applications instead of renting from                          |
-|              |                                                      | [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.                                  |
-| System Admin | https://github.com/kahun/awesome-sysadmin            | A curated list of amazingly awesome open source sysadmin resources.                                                        |
-| -            | https://github.com/n1trux/awesome-sysadmin           | -                                                                                                                          |
-| Elvish       | https://github.com/elves/awesome-elvish              | The official list of awesome unofficial Elvish modules.                                                                    |
-| Fish         | https://github.com/jorgebucaran/awsm.fish            | x                                                                                                                          |
-| LaTeX        | https://github.com/egeerardyn/awesome-LaTeX          | This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).              |
-| Open-Source  | https://awesomeopensource.com                        | Find Open Source By Searching, Browsing and Combining 555,834 Topics Across 59 Categories And 9,110,968 Projects On Github |
-| Python       | https://github.com/vinta/awesome-python              | A curated list of awesome Python frameworks, libraries, software and resources.                                            |
-| Raspberry-PI | https://github.com/thibmaek/awesome-raspberry-pi     | ???                                                                                                                        |
-| REST         | https://github.com/marmelab/awesome-rest             | A collaborative list of great resources about RESTful API architecture, development, test, and performance.                |
-|              |                                                      | Feel free to contribute to this on-going list.                                                                             |
-| Ruby         | https://github.com/markets/awesome-ruby              | A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software.                       |
-|              |                                                      | The essential Ruby to build modern Apps and Web Apps.                                                                      |
-| Shell        | https://github.com/alebcay/awesome-shell             | A curated list of awesome command-line frameworks, toolkit, guides and gizmos. Inspired by awesome-php.                    |
-| Terminals    | https://terminalsare.sexy                            | A curated list of Terminal frameworks, plugins & resources for CLI lovers.                                                 |
-| vim          | https://github.com/akrawchyk/awesome-vim             | Plugins organized by section and ordered alphabetically.                                                                   |
-| VS-Code      | https://github.com/viatsko/awesome-vscode            | A curated list of delightful [Visual Studio Code](https://code.visualstudio.com) packages and resources.                   |
-|              |                                                      | For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).                                        |
+| Topic        | URL                                                  | Description                                                                                                                                       |
+| ------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General      | https://github.com/emijrp/awesome-awesome            | A curated list of awesome curated lists of many topics.                                                                                           |
+| -            | https://github.com/bayandin/awesome-awesomeness      | A curated list of amazingly awesome awesomeness.                                                                                                  |
+| Self Hosted  | https://github.com/juandecarrion/awesome-self-hosted | A curated list of awesome self hosted alternatives to cloud services.                                                                             |
+|              |                                                      | Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).                                                               |
+| -            | https://github.com/Kickball/awesome-selfhosted       | Self-hosting is the practice of locally hosting and managing applications instead of renting from                                                 |
+|              |                                                      | [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.                                                         |
+| System Admin | https://github.com/kahun/awesome-sysadmin            | A curated list of amazingly awesome open source sysadmin resources.                                                                               |
+| -            | https://github.com/n1trux/awesome-sysadmin           | -                                                                                                                                                 |
+| Elvish       | https://github.com/elves/awesome-elvish              | The official list of awesome unofficial Elvish modules.                                                                                           |
+| Fish         | https://github.com/jorgebucaran/awsm.fish            | A curation of plugins, prompts, and resources for the [friendly interactive shell](https://fishshell.com).                                        |
+| Javascript   | https://github.com/sorrycc/awesome-javascript        | A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things. |
+| LaTeX        | https://github.com/egeerardyn/awesome-LaTeX          | This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).                                     |
+| Open-Source  | https://awesomeopensource.com                        | Find Open Source By Searching, Browsing and Combining 555,834 Topics Across 59 Categories And 9,110,968 Projects On Github                        |
+| Python       | https://github.com/vinta/awesome-python              | A curated list of awesome Python frameworks, libraries, software and resources.                                                                   |
+| Raspberry-PI | https://github.com/thibmaek/awesome-raspberry-pi     | ???                                                                                                                                               |
+| REST         | https://github.com/marmelab/awesome-rest             | A collaborative list of great resources about RESTful API architecture, development, test, and performance.                                       |
+|              |                                                      | Feel free to contribute to this on-going list.                                                                                                    |
+| Ruby         | https://github.com/markets/awesome-ruby              | A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software.                                              |
+|              |                                                      | The essential Ruby to build modern Apps and Web Apps.                                                                                             |
+| Shell        | https://github.com/alebcay/awesome-shell             | A curated list of awesome command-line frameworks, toolkit, guides and gizmos. Inspired by awesome-php.                                           |
+| Terminals    | https://terminalsare.sexy                            | A curated list of Terminal frameworks, plugins & resources for CLI lovers.                                                                        |
+| vim          | https://github.com/akrawchyk/awesome-vim             | Plugins organized by section and ordered alphabetically.                                                                                          |
+| VS-Code      | https://github.com/viatsko/awesome-vscode            | A curated list of delightful [Visual Studio Code](https://code.visualstudio.com) packages and resources.                                          |
+|              |                                                      | For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).                                                               |
 
 ## Communications
 
