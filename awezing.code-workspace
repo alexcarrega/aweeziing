@@ -24,6 +24,7 @@
 			"Kubeless",
 			"Mimestream",
 			"neofetch",
+			"noip",
 			"Nuxt",
 			"pacman",
 			"plumbum",
@@ -38,6 +39,7 @@
 			"whatsapp",
 			"Xero",
 			"xonsh"
-		]
+		],
+		"diffEditor.wordWrap": "off"
 	}
 }

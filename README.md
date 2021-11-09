@@ -1,5 +1,9 @@
 # Awesome or Amazing?
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
+
 Usefulness, nothing else matters.
 
 - [Awesome or Amazing?](#awesome-or-amazing)
@@ -35,6 +39,7 @@ Usefulness, nothing else matters.
 |              |                                                      | [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.                                                         |
 | System Admin | https://github.com/kahun/awesome-sysadmin            | A curated list of amazingly awesome open source sysadmin resources.                                                                               |
 | -            | https://github.com/n1trux/awesome-sysadmin           | -                                                                                                                                                 |
+| Bootstrap    | https://github.com/therebelrobot/awesome-bootstrap   | Awesome - A curated list of amazing Bootstrap tools and themes                                                                                    |
 | Elvish       | https://github.com/elves/awesome-elvish              | The official list of awesome unofficial Elvish modules.                                                                                           |
 | Fish         | https://github.com/jorgebucaran/awsm.fish            | A curation of plugins, prompts, and resources for the [friendly interactive shell](https://fishshell.com).                                        |
 | Javascript   | https://github.com/sorrycc/awesome-javascript        | A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things. |
