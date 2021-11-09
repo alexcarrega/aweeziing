@@ -22,7 +22,8 @@ Usefulness, nothing else matters.
   - [System Tools](#system-tools)
     - [Editor](#editor)
     - [Monitoring](#monitoring)
-- [Network](#network)
+    - [Network](#network)
+    - [Online](#online)
     - [Search](#search)
   - [Utilities](#utilities)
   - [Not Working](#not-working)
@@ -185,13 +186,25 @@ Usefulness, nothing else matters.
 | neofetch    | https://github.com/dylanaraps/neofetch   | A command-line system information tool written in bash 3.2+. |
 | screenFetch | https://github.com/KittyKatt/screenFetch | The Bash Screenshot Information Tool.                        |
 
-# Network
+### Network
 
 | Program    | URL                                   | Description                                                                                                          |
 | ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | curlie     | https://curlie.io                     | Frontend to curl that adds the ease of use of _httpie_.                                                              |
 | HTTPie     | https://httpie.io                     | API testing client that flows you.                                                                                   |
 | prettyping | https://denilson.sa.nom.br/prettyping | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read. |
+
+### Online
+
+| Program         | URL                            | Description                                                                        |
+| --------------- | ------------------------------ | ---------------------------------------------------------------------------------- |
+| ASCIIFlow       | https://asciiflow.com/#/       | Infinite ASCII diagrams, save to Google Drive, resize, freeform draw               |
+|                 |                                | and export straight to text/html.                                                  |
+| Epoch Converter | https://www.epochconverter.com | Epoch & Unix Timestamp Conversion Tools                                            |
+| JSON Web Tokens | https://jwt.io                 | Open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for |
+|                 |                                | representing claims securely between two parties.                                  |
+|                 |                                | Decode, verify and generate JWT.                                                   |
+| TLDRLegal       | https://tldrlegal.com          | Software Licenses in Plain English.                                                |
 
 ### Search
 
@@ -204,23 +217,17 @@ Usefulness, nothing else matters.
 
 ## Utilities
 
-| Program                       | URL                                                                           | Description                                                                        |
-| ----------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ASCIIFlow                     | https://asciiflow.com/#/                                                      | Infinite ASCII diagrams, save to Google Drive, resize, freeform draw               |
-|                               |                                                                               | and export straight to text/html.                                                  |
-| cointop                       | https://github.com/cointop-sh/cointop                                         | Coin tracking for hackers.                                                         |
-| Epoch Converter               | https://www.epochconverter.com                                                | Epoch & Unix Timestamp Conversion Tools                                            |
-| FacePDFViewer                 | https://github.com/fabridigua/FacePDFViewer                                   | Online PDF viewer using Computer Vision to make the user scroll                    |
-|                               |                                                                               | the pages with the head movements without using the mouse.                         |
-| JSON Web Tokens               | https://jwt.io                                                                | Open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for |
-|                               |                                                                               | representing claims securely between two parties.                                  |
-|                               |                                                                               | Decode, verify and generate JWT.                                                   |
-| Kubeflow                      | https://www.kubeflow.org                                                      | The Machine Learning Toolkit for Kubernetes.                                       |
-| Kubeless                      | https://kubeless.io                                                           | The Kubernetes Native Serverless Framework.                                        |
-|                               |                                                                               | Build advanced applications with FaaS on top of Kubernetes.                        |
-| Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.                             |
-| Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health.                    |
-| strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules                                                            |
+| Program                       | URL                                                                           | Description                                                     |
+| ----------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| cointop                       | https://github.com/cointop-sh/cointop                                         | Coin tracking for hackers.                                      |
+| FacePDFViewer                 | https://github.com/fabridigua/FacePDFViewer                                   | Online PDF viewer using Computer Vision to make the user scroll |
+|                               |                                                                               | the pages with the head movements without using the mouse.      |
+| Kubeflow                      | https://www.kubeflow.org                                                      | The Machine Learning Toolkit for Kubernetes.                    |
+| Kubeless                      | https://kubeless.io                                                           | The Kubernetes Native Serverless Framework.                     |
+|                               |                                                                               | Build advanced applications with FaaS on top of Kubernetes.     |
+| Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.          |
+| Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health. |
+| strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules                                         |
 
 ## Not Working
 
@@ -230,8 +237,3 @@ Usefulness, nothing else matters.
 | carbon-now-cli | https://github.com/mixn/carbon-now-cli | Beautiful images of your code — from right inside your terminal.                                       |
 | cod            | https://github.com/dim-an/cod          | It detects usage of --help commands parses their output and generates auto-completions for your shell. |
 | how2           | https://github.com/santinic/how2       | StackOverflow from the terminal.                                                                       |
-
-
-basher
-noip
-firefox,edge
