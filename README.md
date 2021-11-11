@@ -18,6 +18,7 @@ Usefulness, nothing else matters.
   - [Mail](#mail)
   - [Manager](#manager)
   - [OS Images](#os-images)
+  - [Picture](#picture)
   - [Shell](#shell)
   - [System Tools](#system-tools)
     - [Editor](#editor)
@@ -26,6 +27,7 @@ Usefulness, nothing else matters.
     - [Online](#online)
     - [Search](#search)
   - [Utilities](#utilities)
+  - [Video](#video)
   - [Not Working](#not-working)
 
 ## Awesome
@@ -148,6 +150,12 @@ Usefulness, nothing else matters.
 | Ubuntu       | https://ubuntu.com        | deb            | Ubuntu operating system for desktop PCs and laptops.                                                |
 | XeroLinux    | https://xldb.techxero.com | arch,pacman    | KDE only minimal Distro that's how it shall remain.                                                 |
 
+## Picture
+
+| Program | URL                  | Description                         |
+| ------- | -------------------- | ----------------------------------- |
+| GIMP    | https://www.gimp.org | The Free & Open Source Image Editor |
+
 ## Shell
 
 | Program | URL                          | Description                                                                                            |
@@ -228,6 +236,12 @@ Usefulness, nothing else matters.
 | Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.          |
 | Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health. |
 | strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules                                         |
+
+## Video
+
+| Program           | URL                              | Description                                 |
+| ----------------- | -------------------------------- | ------------------------------------------- |
+| Subtitle Composer | https://subtitlecomposer.kde.org | The open source text-based subtitle editor. |
 
 ## Not Working
 
