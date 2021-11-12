@@ -239,9 +239,13 @@ Usefulness, nothing else matters.
 
 ## Video
 
-| Program           | URL                              | Description                                 |
-| ----------------- | -------------------------------- | ------------------------------------------- |
-| Subtitle Composer | https://subtitlecomposer.kde.org | The open source text-based subtitle editor. |
+| Program           | URL                              | Description                                                                                                                                                             |
+| ----------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| iMovie            | https://www.apple.com/imovie     | Turn your videos into movie magic.                                                                                                                                      |
+| Jubler            | https://www.jubler.org           | Tool to edit text-based subtitles.                                                                                                                                      |
+| Openshot          | https://openshot.org             | Easy to use, quick to learn, and surprisingly powerful video editor.                                                                                                    |
+| Subtitle Composer | https://subtitlecomposer.kde.org | The open source text-based subtitle editor.                                                                                                                             |
+| VLC               | https://www.videolan.org         | free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. |
 
 ## Not Working
 
