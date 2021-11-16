@@ -7,6 +7,7 @@
 | Coordinator   | ⚙️          |
 | Course        | 📚          |
 | Date Calendar | 📅          |
+| Department    | 🏬          |
 | Europe        | 🇪🇺          |
 | Faculty       | 🎓          |
 | Finance       | 🏦          |
