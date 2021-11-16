@@ -3,6 +3,7 @@
 | Acronyms      | ⍈          |
 | Activity Role | 🏷          |
 | Call          | 💈          |
+| Company       | 💼          |
 | Computing     | 💻          |
 | Coordinator   | ⚙️          |
 | Course        | 📚          |
@@ -12,12 +13,15 @@
 | Faculty       | 🎓          |
 | Finance       | 🏦          |
 | Germany       | 🇩🇪          |
+| h-index       | 📉          |
 | Italy         | 🇮🇹          |
 | Money         | 💶          |
 | New Line      | "       ⤷" |
+| Number        | 🔢          |
 | Office        | 🏢          |
 | Prof Teacher  | 👨‍🏫          |
 | Project       | 📈          |
+| Publication   | 📖          |
 | Researcher    | 👨‍💻          |
 | Size          | 📏          |
 | Student       | 👨‍🎓          |
