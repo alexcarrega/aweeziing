@@ -29,6 +29,7 @@
 | Prof Teacher  | 👨‍🏫           |
 | Project       | 📈           |
 | Publication   | 📖           |
+| Research      | 🔬           |
 | Researcher    | 👨‍💻           |
 | Review        | 📝           |
 | Size          | 📏           |
