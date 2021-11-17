@@ -2,7 +2,9 @@
 | ------------- | ----------- |
 | Acronyms      | ⍈           |
 | Activity Role | 🏷           |
+| Awards        | 🏅           |
 | Call          | 💈           |
+| China         | 🇨🇳           |
 | Company       | 💼           |
 | Computing     | 💻           |
 | Coordinator   | ⚙️           |
@@ -12,9 +14,14 @@
 | Europe        | 🇪🇺           |
 | Faculty       | 🎓           |
 | Finance       | 🏦           |
+| Finland       | 🇫🇮           |
 | Germany       | 🇩🇪           |
 | h-index       | 📉           |
+| Hammer        | 🔨           |
+| Industry      | 🏭           |
+| Institute     | 🌆           |
 | Italy         | 🇮🇹           |
+| Link          | 🔗           |
 | Money         | 💶           |
 | New Line      | "       ⤷ " |
 | Number        | 🔢           |
@@ -23,10 +30,15 @@
 | Project       | 📈           |
 | Publication   | 📖           |
 | Researcher    | 👨‍💻           |
+| Review        | 📝           |
 | Size          | 📏           |
 | Student       | 👨‍🎓           |
+| Sweden        | 🇸🇪           |
+| Technical     | 👨🏻‍🏫           |
 | Thesis        | 📘           |
+| ™             | Trademark   |
 | UK            | 🇬🇧           |
 | University    | 🏫           |
 | USA           | 🇺🇸           |
+| World         | 🌎           |
 | World Map     | 🗺           |
