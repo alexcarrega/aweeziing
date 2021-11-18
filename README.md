@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
 
-Usefulness, nothing else matters.
+**Usefulness**, **nothing** else **matters**.
 
 - [Awesome or Amazing?](#awesome-or-amazing)
   - [Awesome](#awesome)
