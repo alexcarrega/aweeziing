@@ -1,6 +1,6 @@
 | Description   | Symbol      |
 | ------------- | ----------- |
-| Acronyms      | ⍈           |
+| Acronym       | ⍈           |
 | Activity Role | 🏷           |
 | Awards        | 🏅           |
 | Call          | 💈           |
@@ -24,8 +24,11 @@
 | Link          | 🔗           |
 | Money         | 💶           |
 | New Line      | "       ⤷ " |
+| Notes         | 📝           |
 | Number        | 🔢           |
 | Office        | 🏢           |
+| People        | 🧗           |
+| Pin           | 📌           |
 | Prof Teacher  | 👨‍🏫           |
 | Project       | 📈           |
 | Publication   | 📖           |
@@ -37,7 +40,7 @@
 | Sweden        | 🇸🇪           |
 | Technical     | 👨🏻‍🏫           |
 | Thesis        | 📘           |
-| ™             | Trademark   |
+| Trademark     | ™           |
 | UK            | 🇬🇧           |
 | University    | 🏫           |
 | USA           | 🇺🇸           |
