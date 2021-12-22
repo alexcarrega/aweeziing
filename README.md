@@ -11,6 +11,7 @@
   - [Communications](#communications)
   - [Customization](#customization)
   - [Development](#development)
+    - [CMS](#cms)
     - [Data](#data)
     - [IDE](#ide)
     - [Libs](#libs)
@@ -80,6 +81,14 @@
 | oh-my-vim          | https://github.com/liangxianzhe/oh-my-vim | vim      | Out-of-box vim config for everyone.                                     |
 
 ## Development
+
+### CMS
+
+| Program     | URL                    | Description                                      |
+| ----------- | ---------------------- | ------------------------------------------------ |
+| October CMS | https://octobercms.com | The Laravel-Based CMS Engineered For Simplicity. |
+
+
 ### Data
 
 | Program            | URL                                               | Description                                                                                                                |
@@ -140,15 +149,18 @@
 
 ## OS Images
 
-| Program      | URL                       | Package System | Description                                                                                         |
-| ------------ | ------------------------- | -------------- | --------------------------------------------------------------------------------------------------- |
-| CutefishOS   | https://en.cutefishos.com | ubuntu,deb     | Focus on simplicity, beauty and practicality.                                                       |
-| elementaryOS | https://elementary.io     | deb            | The thoughtful, capable, and ethical replacement for Windows and macOS.                             |
-| endeavourOS  | https://endeavouros.com   | arch,pacman    | A terminal-centric distro with a vibrant and friendly community at its core.                        |
-| Kubuntu      | https://kubuntu.org       | deb            | Operating system built by a worldwide community of developers, testers, supporters and translators. |
-| MX Linux     | https://mxlinux.org       | debian,deb     | Cooperative venture between the antiX and MX Linux communities.                                     |
-| Ubuntu       | https://ubuntu.com        | deb            | Ubuntu operating system for desktop PCs and laptops.                                                |
-| XeroLinux    | https://xldb.techxero.com | arch,pacman    | KDE only minimal Distro that's how it shall remain.                                                 |
+| Program       | URL                                        | Package System | Description                                                                                         |
+| ------------- | ------------------------------------------ | -------------- | --------------------------------------------------------------------------------------------------- |
+| CutefishOS    | https://en.cutefishos.com                  | ubuntu,deb     | Focus on simplicity, beauty and practicality.                                                       |
+| elementaryOS  | https://elementary.io                      | deb            | The thoughtful, capable, and ethical replacement for Windows and macOS.                             |
+| endeavourOS   | https://endeavouros.com                    | arch,pacman    | A terminal-centric distro with a vibrant and friendly community at its core.                        |
+| eXternOS-Base | https://github.com/eXtern-OS/eXternOS-Base | node.js        |                                                                                                     |
+| Kubuntu       | https://kubuntu.org                        | deb            | Operating system built by a worldwide community of developers, testers, supporters and translators. |
+| MX Linux      | https://mxlinux.org                        | debian,deb     | Cooperative venture between the antiX and MX Linux communities.                                     |
+| pearOS        | https://pearos.xyz                         | ubuntu,deb     | A minimal, lightweight, and easy to use operating system.                                           |
+| Ubuntu        | https://ubuntu.com                         | deb            | Ubuntu operating system for desktop PCs and laptops.                                                |
+| Windowsfx     | https://windowsfx.org                      |                | The Microsoft Windows 11 interface with the speed and security of Linuxfx.                          |
+| XeroLinux     | https://xldb.techxero.com                  | arch,pacman    | KDE only minimal Distro that's how it shall remain.                                                 |
 
 ## Picture
 
@@ -225,17 +237,24 @@
 
 ## Utilities
 
-| Program                       | URL                                                                           | Description                                                     |
-| ----------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| cointop                       | https://github.com/cointop-sh/cointop                                         | Coin tracking for hackers.                                      |
-| FacePDFViewer                 | https://github.com/fabridigua/FacePDFViewer                                   | Online PDF viewer using Computer Vision to make the user scroll |
-|                               |                                                                               | the pages with the head movements without using the mouse.      |
-| Kubeflow                      | https://www.kubeflow.org                                                      | The Machine Learning Toolkit for Kubernetes.                    |
-| Kubeless                      | https://kubeless.io                                                           | The Kubernetes Native Serverless Framework.                     |
-|                               |                                                                               | Build advanced applications with FaaS on top of Kubernetes.     |
-| Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.          |
-| Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health. |
-| strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules                                         |
+| Program                       | URL                                                                           | Description                                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Albert                        | https://albertlauncher.github.io                                              | Desktop agnostic launcher.                                                                  |
+| cointop                       | https://github.com/cointop-sh/cointop                                         | Coin tracking for hackers.                                                                  |
+| carbon-now-cli                | https://github.com/mixn/carbon-now-cli                                        | Beautiful images of your code — from right inside your terminal.                            |
+| FacePDFViewer                 | https://github.com/fabridigua/FacePDFViewer                                   | Online PDF viewer using Computer Vision to make the user scroll                             |
+|                               |                                                                               | the pages with the head movements without using the mouse.                                  |
+| flameshot                     | https://github.com/flameshot-org/flameshot                                    | Powerful yet simple to use screenshot software.                                             |
+| Fluent Reader                 | https://hyliu.me/fluent-reader                                                | Modern desktop RSS reader. Open-source.                                                     |
+| Kubeflow                      | https://www.kubeflow.org                                                      | The Machine Learning Toolkit for Kubernetes.                                                |
+| Kubeless                      | https://kubeless.io                                                           | The Kubernetes Native Serverless Framework.                                                 |
+|                               |                                                                               | Build advanced applications with FaaS on top of Kubernetes.                                 |
+| pdfslicer                     | https://github.com/junrrein/pdfslicer                                         | Extract, merge, rotate and reorder pages of PDF documents, with undo/redo support.          |
+| Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.                                      |
+| Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health.                             |
+| Shortwave                     | https://gitlab.gnome.org/World/Shortwave                                      | Listen to internet radio.                                                                   |
+| strongSwan                    | https://wiki.strongswan.org/projects/strongswan/wiki/KernelModules            | Required Kernel Modules.                                                                    |
+| topgrade                      | https://github.com/r-darwish/topgrade                                         | Keeping your system up to date mostly involves invoking more than a single package manager. |
 
 ## Video
 
@@ -249,9 +268,8 @@
 
 ## Not Working
 
-| Program        | URL                                    | Description                                                                                            |
-| -------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| borg           | https://github.com/ok-borg/borg        | Search and save shell snippets without leaving your terminal.                                          |
-| carbon-now-cli | https://github.com/mixn/carbon-now-cli | Beautiful images of your code — from right inside your terminal.                                       |
-| cod            | https://github.com/dim-an/cod          | It detects usage of --help commands parses their output and generates auto-completions for your shell. |
-| how2           | https://github.com/santinic/how2       | StackOverflow from the terminal.                                                                       |
+| Program | URL                              | Description                                                                                            |
+| ------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| borg    | https://github.com/ok-borg/borg  | Search and save shell snippets without leaving your terminal.                                          |
+| cod     | https://github.com/dim-an/cod    | It detects usage of --help commands parses their output and generates auto-completions for your shell. |
+| how2    | https://github.com/santinic/how2 | StackOverflow from the terminal.                                                                       |
