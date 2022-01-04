@@ -186,6 +186,7 @@
 | enhancd             | https://github.com/b4b4r07/enhancd                 | A next-generation cd command with an interactive filter sparkles.                                                              |
 | fish-apple-touchbar | https://github.com/rodrigobdz/fish-apple-touchbar  | Supercharge your touchbar with fish.                                                                                           |
 | lsd                 | https://github.com/Peltoche/lsd                    | LSDeluxe.                                                                                                                      |
+| mcfly               | https://github.com/cantino/mcfly                   | Fly through your shell history.                                                                                                |
 | progress            | https://github.com/Xfennec/progress                | Coreutils Progress Viewer.                                                                                                     |
 | thefuck             | https://github.com/nvbn/thefuck                    | Corrects errors in previous console commands.                                                                                  |
 | tldr                | https://github.com/dbrgn/tealdeer                  | Replace man pages with Tealdeer on Linux                                                                                       |
