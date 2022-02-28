@@ -214,6 +214,8 @@
 | curlie     | https://curlie.io                     | Frontend to curl that adds the ease of use of _httpie_.                                                              |
 | HTTPie     | https://httpie.io                     | API testing client that flows you.                                                                                   |
 | prettyping | https://denilson.sa.nom.br/prettyping | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read. |
+| prettyping | https://denilson.sa.nom.br/prettyping | Wrapper around the standard ping tool, making the output prettier, more colourful, more compact, and easier to read. |
+| bluesnooze | https://github.com/odlp/bluesnooze    | Prevents your sleeping Mac from connecting to Bluetooth accessories.                                                 |
 
 ### Online
 
