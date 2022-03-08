@@ -203,6 +203,7 @@
 | Program     | URL                                      | Description                                                  |
 | ----------- | ---------------------------------------- | ------------------------------------------------------------ |
 | archey4     | https://github.com/HorlogeSkynet/archey4 | Simple system information tool written in Python.            |
+| coolero     | https://gitlab.com/codifryed/coolero     | A program to monitor and control your cooling devices.       |
 | htop        | https://htop.dev                         | Cross-platform interactive process viewer.                   |
 | neofetch    | https://github.com/dylanaraps/neofetch   | A command-line system information tool written in bash 3.2+. |
 | screenFetch | https://github.com/KittyKatt/screenFetch | The Bash Screenshot Information Tool.                        |
@@ -252,6 +253,7 @@
 | Kubeflow                      | https://www.kubeflow.org                                                      | The Machine Learning Toolkit for Kubernetes.                                                |
 | Kubeless                      | https://kubeless.io                                                           | The Kubernetes Native Serverless Framework.                                                 |
 |                               |                                                                               | Build advanced applications with FaaS on top of Kubernetes.                                 |
+| Pure Paste                    | https://sindresorhus.com/pure-paste                                           | Paste as plain text by default.                                                             |
 | pdfslicer                     | https://github.com/junrrein/pdfslicer                                         | Extract, merge, rotate and reorder pages of PDF documents, with undo/redo support.          |
 | Remmina                       | https://remmina.org                                                           | Remote access screen and file sharing to your desktop.                                      |
 | Samsung SSD Magician Software | https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/ | Swift access to key indicators of your SSD’s status and health.                             |
