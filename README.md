@@ -119,7 +119,7 @@
 | shellpy           | https://github.com/lamerman/shellpy          | Shell scripting in Python.                                               |
 | vprof             | https://github.com/nvdv/vprof                | Python package providing rich and interactive visualizations for various |
 |                   |                                              | Python program characteristics such as running time and memory usage.    |
-
+| redbean           | https://redbean.dev                          | Single-file distributable web server.                                    |
 ### Programming
 
 | Program  | URL                                            | Lang    | Description                                                                                              |
